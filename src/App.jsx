@@ -5,7 +5,7 @@ import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Responsi
 import { Sun, Moon, Share2, Activity, MapPin, Brain, GitGraph, Sparkles, RefreshCcw, ArrowRight, Check } from 'lucide-react';
 
 // --- Constants & Data ---
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://ml-lab-backend-production.up.railway.app';
 
 const CULTURAL_FACTS = {
   Japan: "Known for cherry blossoms, sushi, and a perfect blend of ancient tradition with modern technology.",
